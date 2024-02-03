@@ -1,4 +1,4 @@
-package gurur.springframework.model;
+package gurur.springframework.msscbrewer.web.model;
 
 
 import lombok.Builder;
